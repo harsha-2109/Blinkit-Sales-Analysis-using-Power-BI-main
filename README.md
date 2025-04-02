@@ -31,6 +31,7 @@ Microsoft Excel / SQL: Data preprocessing and cleaning.
 Open the Power BI dashboard file (.pbix).
 Use the filter panel to explore specific outlet locations, sizes, and item types.
 Analyze key sales trends, outlet performance, and customer ratings.
+
 📌 Future Enhancements
 
 Integration with real-time sales data.
